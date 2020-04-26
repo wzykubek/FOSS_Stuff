@@ -68,7 +68,7 @@ Messenger | [Signal](https://www.signal.org/), [Riot.im](https://about.riot.im/)
 Password manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
 Pastebin | [Disroot Privatebin](https://bin.disroot.org/), [0x0](http://0x0.st/)*
 Twitter | [Mastodon](https://joinmastodon.org), [Pleroma](https://pleroma.social), [Nitter](https://nitter.net/) (Twitter frontend)
-Video/Voice Chat | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.com/)
+Video/Voice Chat | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.info/)
 YouTube | [invidio.us](https://invidio.us) (YouTube frontend)
 
 \*not recommended\
