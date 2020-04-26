@@ -18,7 +18,7 @@ Launcher | KISS Launcher, T-UI, Lawnchair
 Music player | Vinyl, Odyssey
 Notes app | Markor
 RRS Feed app | Feeder
-Reddit app | Slide, RedReader*
+Reddit app | *Infinity for Reddit*, Slide, RedReader*
 SMS app | QKSMS
 Synchronization | Syncthing, KDE Connect
 Twitter app | Twidere
@@ -55,6 +55,7 @@ Discord | [Keybase](https://keybase.io/), [[Riot.im](https://about.riot.im/), [F
 Doodle | [Framadate](https://framadate.org/)
 Etherpad | [Etherpad](https://etherpad.org/), [Disroot Pad](https://pad.disroot.org/), [Disroot Cryptpad](https://cryptpad.disroot.org/)
 Facebook | [Mastodon](https://mastodon.social/about), [Disapora](https://joindiaspora.com/), [Reddit](https://reddit.com)*
+GitHub, GitLab | [Codeberg](https://codeberg.org/), [Gitea](https://gitea.com/)
 Gmail, Outlook etc. | [Disroot](https://disroot.org), [ProtonMail](https://protonmail.com/), [Tutanota](https://www.tutanota.com/), [Kolab Now](https://kolabnow.com/)
 Google Drive, OneDrive | selfhosted [Nextcloud](https://nextcloud.com/), [Syncthing](https://syncthing.net/)**
 Google Fonts | selfhosted fonts, [Font Library](https://fontlibrary.org/)
