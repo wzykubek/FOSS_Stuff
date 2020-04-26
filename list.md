@@ -51,13 +51,13 @@ Screencast/streaming app | [OBS Studio](https://obsproject.com/)
 ## Services
 Service | Privacy alternatives
 :--- | :---
-Discord | [Keybase](https://keybase.io/), [[Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)]
+Discord | [gtkcord3](https://github.com/diamondburned/gtkcord3) (Discord client)* \**, [Keybase](https://keybase.io/), [[Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)]
 Doodle | [Framadate](https://framadate.org/)
 Etherpad | [Etherpad](https://etherpad.org/), [Disroot Pad](https://pad.disroot.org/), [Disroot Cryptpad](https://cryptpad.disroot.org/)
 Facebook | [Mastodon](https://mastodon.social/about), [Disapora](https://joindiaspora.com/), [Reddit](https://reddit.com)*
 GitHub, GitLab | [Codeberg](https://codeberg.org/), [Gitea](https://gitea.com/)
 Gmail, Outlook etc. | [Disroot](https://disroot.org), [ProtonMail](https://protonmail.com/), [Tutanota](https://www.tutanota.com/), [Kolab Now](https://kolabnow.com/)
-Google Drive, OneDrive | selfhosted [Nextcloud](https://nextcloud.com/), [Syncthing](https://syncthing.net/)**
+Google Drive, OneDrive | selfhosted [Nextcloud](https://nextcloud.com/), [Syncthing](https://syncthing.net/)***
 Google Fonts | selfhosted fonts, [Font Library](https://fontlibrary.org/)
 Google Pools | [Disroot Pools](https://poll.disroot.org/)
 Google Translate | [DeepL Translator](https://www.deepl.com/translator)
@@ -72,7 +72,8 @@ Video/Voice Chat | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumb
 YouTube | [invidio.us](https://invidio.us) (YouTube frontend)
 
 \*not recommended\
-\*\*This is not a cloud but p2p synchronization tool.
+\*\*Using unofficial Discord clients is inconsistent with Discord TOS. Be aware that your account may be blocked. You use it at your own risk.\
+\*\*\*This is not a cloud but p2p synchronization tool.
 
 ## Games
 Game | Description
