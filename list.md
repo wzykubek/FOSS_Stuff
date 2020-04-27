@@ -7,15 +7,18 @@ App | FOSS alternatives
 Calculator app | Calculator++
 Calendar app | Simple Calendar
 Camera app | OpenCamera
-Chrome, Opera etc. | *Brave*, *[Bromite](https://www.bromite.org/)*, Firefox, Tor Browser
+Chrome, Opera etc. | *Brave*, *[Bromite](https://www.bromite.org/)*, *Firefox*/Fennec F-Droid, *Tor Browser*
 E-book/PDF reader | Librera, Book Reader, FBReader
+~~Facebook~~** | Frost
 File manager | Amaze, Ghost Commander, Material Files
 GBoard | OpenBoard, *AOSP Keyboard*
 GMail app, other mail app | FairEmail, K-9 Mail
+Google Authenticator | Aegis
 Google Maps | OsmAnd+
 Google Photos | Simple Gallery
 Google Play Store | [Aurora Store](https://auroraoss.com/), [F-Droid](https://f-droid.org/)
 Launcher | KISS Launcher, T-UI, Lawnchair
+Mi Fit | Gadhetbridge*
 Music player | Vinyl, Odyssey
 Notes app | Markor
 RRS Feed app | Feeder
@@ -26,7 +29,21 @@ Twitter app | Twidere
 VULCAN Dzienniczek+ | Wulkanowy
 Video player | VLC
 YouTube app | NewPipe, SkyTube*
-~~Facebook~~** | Frost
+
+### Root only apps
+App | Description
+:--- | :---
+*[Magisk](https://magiskroot.com/)* | Tool for rooting your phone.
+*[TWRP](https://twrp.me/)* | Recovery project.
+[Adaway](https://adaway.org/) | Hosts based ad-blocker.
+
+### Other recommended privacy apps
+App | Description
+:--- | :---
+[Orbot](guardianproject.info/apps/orbot) | Tor proxy for Android.
+UntrackMe | Links converter (eg. change YouTube to invidio.us link).
+Scrambled Exif | Remove metadata from photos.
+OpenKeychain | PGP encryption app for Android.
 
 *All apps (without italics) are available in F-Droid.*\
 \*not recommended\
@@ -70,6 +87,7 @@ Instagram | [Pixelfed](https://pixelfed.org/)
 Messenger | [Signal](https://www.signal.org/), [Riot.im](https://about.riot.im/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) client), *[Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)*
 Password manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
 Pastebin | [Disroot Privatebin](https://bin.disroot.org/), [0x0](http://0x0.st/)*
+Spotify, Tidal | downloaded music
 Twitter | [Mastodon](https://joinmastodon.org), [Pleroma](https://pleroma.social), [Nitter](https://nitter.net/) (Twitter frontend)
 Video/Voice Chat | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.com/)
 YouTube | [invidio.us](https://invidio.us) (YouTube frontend)
