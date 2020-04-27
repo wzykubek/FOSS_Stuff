@@ -22,6 +22,7 @@ Change Windows to GNU/Linux or BSD.
 * [Dawid Potocki](https://github.com/dawidpotocki)
 * [TheEvilSkeleton](https://github.com/TheEvilSkeleton)
 * [Adrian Marciniuk](https://github.com/xXBlackMaskXx)
+* [Tim Visée](https://github.com/timvisee)
 
 #### From Reddit
 * u/BehindBrownEyes
