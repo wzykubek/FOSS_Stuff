@@ -18,7 +18,7 @@ Google Maps | OsmAnd+
 Google Photos | Simple Gallery
 Google Play Store | [Aurora Store](https://auroraoss.com/), [F-Droid](https://f-droid.org/)
 Launcher | KISS Launcher, T-UI, Lawnchair
-Mi Fit | Gadhetbridge*
+Mi Fit | Gadgetbridge*
 Music player | Vinyl, Odyssey
 Notes app | Markor
 RRS Feed app | Feeder
@@ -61,6 +61,7 @@ AutoCAD | [QCAD](https://qcad.org/en/)
 Browser | [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/), [Tor Browser](https://torproject.org), [Brave](https://brave.com/), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Qutebrowser](https://qutebrowser.org/)
 Code editor | [VSCode (builded from source)](https://github.com/microsoft/vscode), [NeoVim](https://neovim.io/), [Emacs](https://www.gnu.org/software/emacs/)
 Discord client** | [gtkcord3](https://github.com/diamondburned/gtkcord3)
+Epic Games Launcher | [legendary](https://github.com/derrod/legendary)
 Microsoft Office | [Libre Office](https://www.libreoffice.org/), [Open Office](https://www.openoffice.org/)*
 Screencast/streaming app | [OBS Studio](https://obsproject.com/)
 µTorrent | [qBittorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/)
