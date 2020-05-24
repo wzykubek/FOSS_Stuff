@@ -70,40 +70,43 @@ Screencast/streaming app | [OBS Studio](https://obsproject.com/)
 \*\*Using unofficial Discord clients is inconsistent with Discord TOS. Be aware that your account may be blocked. You use it at your own risk.
 
 ## Services
-Service | *Privacy* alternatives
-:--- | :---
-Discord | [Keybase](https://keybase.io/), [[Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)]
-Doodle | [Framadate](https://framadate.org/)
-Etherpad | [Etherpad](https://etherpad.org/), [Disroot Pad](https://pad.disroot.org/), [Disroot Cryptpad](https://cryptpad.disroot.org/)
-Facebook | [Mastodon](https://mastodon.social/about), [Disapora](https://joindiaspora.com/)
-GitHub, GitLab | [Codeberg](https://codeberg.org/), [Gitea](https://gitea.com/)
-Gmail, Outlook etc. | [Disroot](https://disroot.org), [ProtonMail](https://protonmail.com/), [Tutanota](https://www.tutanota.com/), [Kolab Now](https://kolabnow.com/)
-Google Drive, OneDrive | selfhosted [Nextcloud](https://nextcloud.com/), [Syncthing](https://syncthing.net/)
-Google Fonts | selfhosted fonts, [Font Library](https://fontlibrary.org/)
-Google Pools | [Disroot Pools](https://poll.disroot.org/)
-Google Translate | *[DeepL Translator](https://www.deepl.com/translator)*
-Google, Bing | *[DuckDuckGo](https://duckduckgo.com)*, [SearX](https://search.disroot.org/), [YaCy](https://yacy.net/)
-Grammarly tools | [LanguageTool](https://languagetool.org/)
-Instagram | [Pixelfed](https://pixelfed.org/)
-Messenger | [Signal](https://www.signal.org/), [Riot.im](https://about.riot.im/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) client), *[Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)*
-Password manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
-Pastebin | [Disroot Privatebin](https://bin.disroot.org/), [0x0](http://0x0.st/)*
-Spotify, Tidal | downloaded music
-Twitter | [Mastodon](https://joinmastodon.org), [Pleroma](https://pleroma.social), [Nitter](https://nitter.net/) (Twitter frontend)
-Video/Voice Chat | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.info/)
-YouTube | [invidio.us](https://invidio.us) (YouTube frontend)
+Type | Service | *Privacy* alternatives
+:--- | :--- | :---
+Channel-based chat | Discord | [Keybase](https://keybase.io/)\*\*\*, \[[Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)\]
+Polls | Strawpoll, Doodle | [Framadate](https://framadate.org/), [Disroot Polls](https://poll.disroot.org/)
+Surveys and forms | Google Forms | Nextcloud app [Forms](https://apps.nextcloud.com/apps/forms)
+Cooperative editing | Google Docs | [Etherpad](https://etherpad.org/), [Disroot Pad](https://pad.disroot.org/), [Disroot Cryptpad](https://cryptpad.disroot.org/)
+- | Facebook | [Mastodon](https://mastodon.social/about), [Disapora](https://joindiaspora.com/)
+Git hosting | GitHub | [GitLab](https://gitlab.com/) (or selfhosted [Gitlab CE](https://gitlab.com/opensource/gitlab-ce)), [Codeberg](https://codeberg.org/), [Gitea](https://gitea.com/)
+E-mail hosting | Gmail, Outlook | [Disroot](https://disroot.org)\*\*, [ProtonMail](https://protonmail.com/)\*\*, [Tutanota](https://www.tutanota.com/)\*\*, [Kolab Now](https://kolabnow.com/) (or selfhosted [Kolab](https://kolab.org/))
+Cloud drive and sync | Google Drive, OneDrive | [Nextcloud](https://nextcloud.com/), [Syncthing](https://syncthing.net/) (only sync)
+Font resources | Google Fonts | selfhosted fonts, [Font Library](https://fontlibrary.org/)
+Machine translation | Google Translate | [DeepL Translator](https://www.deepl.com/translator)\*\*
+Search engines | Google, Bing | [DuckDuckGo](https://duckduckgo.com)\*\*, [SearX](https://search.disroot.org/), [YaCy](https://yacy.net/)
+Spell checking | Grammarly | [LanguageTool](https://languagetool.org/)
+- | Instagram | [Pixelfed](https://pixelfed.org/)
+Group-based chat | Messenger, WhatsApp | [Signal](https://www.signal.org/), [Riot.im](https://about.riot.im/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) client), [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)\*\*
+Password manager | Dashlane, LastPass, Google Password Manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
+Pastebin | Pastebin.com | [Disroot Privatebin](https://bin.disroot.org/), [GitLab Snippets](https://gitlab.com/), [0x0](http://0x0.st/)\*\*\*
+Music streaming | Spotify, Tidal | ~~downloaded~~ bought music
+- | Twitter | [Mastodon](https://joinmastodon.org), [Pleroma](https://pleroma.social), [Nitter](https://nitter.net/) (Twitter frontend)
+Video/Voice Chat | Discord, Skype | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.info/), Nextcloud app [Talk](https://apps.nextcloud.com/apps/spreed)
+- | YouTube | [LBRY](https://lbry.tv/), [invidio.us](https://invidio.us) (YouTube frontend)
 
-*italics - not fully FOSS (eg. closed backend)*\
-\*not recommended
+\* - only selfhosted
+
+\*\* - not (fully) FOSS, but still a better alternative
+
+\*\*\* - not recommended
 
 ## Games
 Game | Description
 :--- | :---
-[osu!lazer](https://github.com/ppy/osu) | Iconic rythm *click the circles* game now is official open source.
+[osu!lazer](https://github.com/ppy/osu) | Iconic rhythm *click the circles* game now is officially open source.
 [Open Arena](http://www.openarena.ws/smfnews.php) | Community-produced deathmatch FPS based on GPL idTech3 technology.
 [Lutris](https://lutris.net/) | Open gaming platform for Linux.
 [RetroArch](https://www.retroarch.com/) | *libretro* frontend. Combines all (or most of) your emulators and game engines in one place.
-[Minetest](https://www.minetest.net/) - Voxel engine and game. Alternative to Minecraft.
-[MultiMC](https://multimc.org/) - Advanced, open Minecraft launcher (the game is still propertiary).
+[Minetest](https://www.minetest.net/) | Voxel engine and game. Alternative to Minecraft.
+[MultiMC](https://multimc.org/) | Advanced, open Minecraft launcher (the game is still propertiary).
 
 #### [Big list of open source games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
