@@ -103,5 +103,7 @@ Game | Description
 [Open Arena](http://www.openarena.ws/smfnews.php) | Community-produced deathmatch FPS based on GPL idTech3 technology.
 [Lutris](https://lutris.net/) | Open gaming platform for Linux.
 [RetroArch](https://www.retroarch.com/) | Console emulator platform.
+[Minetest](https://www.minetest.net/) - Voxel engine and game. Alternative to Minecraft.
+[MultiMC](https://multimc.org/) - Advanced, open Minecraft launcher (the game is still propertiary).
 
 #### [Big list of open source games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
