@@ -2,7 +2,7 @@
 
 In this repo you can find some free, open source and privacy applications and services to stop use proprietary spyware. If you have other advices, suggestions or apps/services which I can add it to this document please contribute or open an issue.
 
-## [Full list apps, services and game alternatives](./list.md)
+## [Full list of apps, services and game alternatives](./list.md)
 
 #### Also look on [privacytools.io](https://privacytools.io)
 
