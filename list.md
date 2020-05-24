@@ -55,7 +55,21 @@ OpenKeychain | PGP encryption app for Android.
 
 #### Where get apps that aren't on F-Droid?
 
-[TODO]
+**Brave** - Use Aurora Store (Google Play frontend) or add [rfc2822's repo](https://gitlab.com/rfc2822/fdroid-firefox) to F-Droid..
+
+**Bromite** - Add [Bromite repo](https://www.bromite.org/fdroid) to F-Droid.
+
+**Firefox** - Install Fennec, use Aurora Store (Google Play frontend) or add [rfc2822's repo](https://gitlab.com/rfc2822/fdroid-firefox) to F-Droid.
+
+**Tor Browser** - Add [Guardian Project repo](https://guardianproject.info/fdroid/) to F-Droid.
+
+**AOSP Keyboard** - [APKMirror](https://www.apkmirror.com/apk/lineageos/android-keyboard-aosp-2/)
+
+**Infinity for Reddit** - Add [IzzyOnDroid repo](https://apt.izzysoft.de/fdroid/repo) to F-Droid.
+
+**Magisk** - https://github.com/topjohnwu/Magisk
+
+**TWRP** - https://twrp.me/
 
 #### Why not recommended?
 
