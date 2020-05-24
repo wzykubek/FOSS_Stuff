@@ -102,7 +102,7 @@ Game | Description
 [osu!lazer](https://github.com/ppy/osu) | Iconic rythm *click the circles* game now is official open source.
 [Open Arena](http://www.openarena.ws/smfnews.php) | Community-produced deathmatch FPS based on GPL idTech3 technology.
 [Lutris](https://lutris.net/) | Open gaming platform for Linux.
-[RetroArch](https://www.retroarch.com/) | Console emulator platform.
+[RetroArch](https://www.retroarch.com/) | *libretro* frontend. Combines all (or most of) your emulators and game engines in one place.
 [Minetest](https://www.minetest.net/) - Voxel engine and game. Alternative to Minecraft.
 [MultiMC](https://multimc.org/) - Advanced, open Minecraft launcher (the game is still propertiary).
 
