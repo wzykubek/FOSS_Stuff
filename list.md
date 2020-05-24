@@ -50,27 +50,27 @@ OpenKeychain | PGP encryption app for Android.
 \*\*Remove Facebook account if you don't need it.
 
 ## Desktop apps
-App | FOSS alternatives
-:--- | :---
-3D modeling | [Blender](https://www.blender.org/)
-Adobe Illustrator | [Inkscape](https://inkscape.org)
-Adobe Lightroom | [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/)
-Adobe Photoshop | [GIMP](https://www.gimp.org/), [Krita](https://krita.org)
-Adobe Premiere | [Kdenlive](https://kdenlive.org/)
-AutoCAD | [QCAD](https://qcad.org/en/)
-Browser | [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/), [Tor Browser](https://torproject.org), [Brave](https://brave.com/), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Qutebrowser](https://qutebrowser.org/)
-Code editor | [VSCode (builded from source)](https://github.com/microsoft/vscode), [NeoVim](https://neovim.io/), [Emacs](https://www.gnu.org/software/emacs/)
-Discord client** | [gtkcord3](https://github.com/diamondburned/gtkcord3)
-Epic Games Launcher | [legendary](https://github.com/derrod/legendary)
-Microsoft Office | [Libre Office](https://www.libreoffice.org/), [Open Office](https://www.openoffice.org/)*
-Screencast/streaming app | [OBS Studio](https://obsproject.com/)
-µTorrent | [qBittorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/)
+Type | App | FOSS alternatives
+:--- | :--- | :---
+3D modeling and animation | 3ds Max, Cinema 4D | [Blender](https://www.blender.org/)
+Vector graphics | Adobe Illustrator | [Inkscape](https://inkscape.org)
+Photo retouching | Adobe Lightroom | [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/)
+Bitmap graphics | Adobe Photoshop | [GIMP](https://www.gimp.org/), [Krita](https://krita.org)
+Video editor | Adobe Premiere | [Kdenlive](https://kdenlive.org/), [OpenShot](https://www.openshot.org/)
+CAD | AutoCAD | [QCAD](https://qcad.org/en/)
+Browser | Chrome, MS Edge, Vivaldi | [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/), [Tor Browser](https://torproject.org), [Brave](https://brave.com/), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Qutebrowser](https://qutebrowser.org/)
+Code editor | Visual Studio | [VSCode](https://github.com/microsoft/vscode) (built from source or [VSCodium](https://vscodium.com/)), [vim](https://www.vim.org/) or [NeoVim](https://neovim.io/), [Emacs](https://www.gnu.org/software/emacs/)
+Discord client\*\* | Discord | [gtkcord3](https://github.com/diamondburned/gtkcord3)
+- | Epic Games Launcher | [legendary](https://github.com/derrod/legendary)
+Office suite | Microsoft Office | [Libre Office](https://www.libreoffice.org/), [Open Office](https://www.openoffice.org/)\*
+Screencast/streaming app | [OBS Studio](https://obsproject.com/), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
+BitTorrent client | µTorrent | [qBittorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/)
 
-\*not recommended\
-\*\*Using unofficial Discord clients is inconsistent with Discord TOS. Be aware that your account may be blocked. You use it at your own risk.
+\* - not recommended \
+\*\* - Using unofficial Discord clients is inconsistent with Discord TOS. Be aware that your account may be blocked. You use it at your own risk.
 
 ## Services
-Type | Service | *Privacy* alternatives
+Type | Service | FOSS (or more private\*\*) alternatives
 :--- | :--- | :---
 Channel-based chat | Discord | [Keybase](https://keybase.io/)\*\*\*, \[[Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)\]
 Polls | Strawpoll, Doodle | [Framadate](https://framadate.org/), [Disroot Polls](https://poll.disroot.org/)
@@ -93,10 +93,8 @@ Music streaming | Spotify, Tidal | ~~downloaded~~ bought music
 Video/Voice Chat | Discord, Skype | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.info/), Nextcloud app [Talk](https://apps.nextcloud.com/apps/spreed)
 - | YouTube | [LBRY](https://lbry.tv/), [invidio.us](https://invidio.us) (YouTube frontend)
 
-\* - only selfhosted
-
-\*\* - not (fully) FOSS, but still a better alternative
-
+\* - only selfhosted \
+\*\* - not (fully) FOSS, but still a better alternative \
 \*\*\* - not recommended
 
 ## Games
