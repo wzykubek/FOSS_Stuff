@@ -118,7 +118,7 @@ Font resources | Google Fonts | selfhosted fonts, [Font Library](https://fontlib
 Machine translation | Google Translate | [DeepL Translator](https://www.deepl.com/translator)\*
 Search engines | Google, Bing | [DuckDuckGo](https://duckduckgo.com)\*, [SearX](https://search.disroot.org/), [YaCy](https://yacy.net/)
 Spell checking | Grammarly | [LanguageTool](https://languagetool.org/)
-- | Instagram | [Pixelfed](https://pixelfed.org/)
+\- | Instagram | [Pixelfed](https://pixelfed.org/)
 Group-based chat | Messenger, WhatsApp | [Signal](https://www.signal.org/), [Riot.im](https://about.riot.im/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) client), [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)\*
 Password manager | Dashlane, LastPass, Google Password Manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
 Pastebin | Pastebin.com | [Disroot Privatebin](https://bin.disroot.org/), [GitLab Snippets](https://gitlab.com/), [0x0](http://0x0.st/)\*\*
