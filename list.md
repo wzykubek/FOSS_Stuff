@@ -23,13 +23,13 @@ Launcher | - | KISS Launcher, T-UI\*\*\*, Lawnchair
 Activity tracker pairing app | Mi Fit | Gadgetbridge\*\*\*
 Music player | Google Music | Vinyl, Odyssey
 Notes | Google Keep, OneNote | Markor, Joplin
-RSS Feed | [TODO] | Feeder
+RSS Feed | Aggregator | Feeder
 - | Reddit | Infinity for Reddit\*, Slide, RedReader\*\*\*
 SMS | - | QKSMS
 Synchronization | - | Syncthing, KDE Connect
 - | Twitter | Twidere
 - | VULCAN Dzienniczek+ | Wulkanowy
-Video player | [TODO] | VLC
+Video player | MX Player | VLC
 - | YouTube | NewPipe, SkyTube\*\*\*
 
 ### Root only apps
@@ -53,7 +53,19 @@ OpenKeychain | PGP encryption app for Android.
 \*\* - Delete Facebook account if you don't need it. \
 \*\*\* - Not recommended. See below.
 
+#### Where get apps that aren't on F-Droid?
+
 [TODO]
+
+#### Why not recommended?
+
+**Gadgetbridge** - [TODO]
+
+**RedReader** - [TODO]
+
+**SkyTube** - [TODO]
+
+**T-UI** - Not really efficient on touchscreen.
 
 ## Desktop apps
 
@@ -104,7 +116,11 @@ Video/Voice Chat | Discord, Skype | [Jitsi Meet](https://meet.jit.si/), [Mumble]
 \* - Not (fully) FOSS, but still a better alternative. \
 \*\* - Not recommended. See below.
 
-[TODO]
+#### Why not recommended?
+
+**Keybase** - [recently acquired by Zoom](https://keybase.io/blog/keybase-joins-zoom). Messages are still private (since they are encrypted), but the development might slow down or even stopped (Zoom cares about their devs, not about the app itself).
+
+**0x0** - Doesn't keep pastes forever, doesn't have an UI (it's just a service).
 
 ## Games
 Game | Description
