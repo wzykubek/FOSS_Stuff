@@ -30,7 +30,7 @@ Synchronization | \- | Syncthing, KDE Connect
 \- | Twitter | Twidere
 \- | VULCAN Dzienniczek+ | Wulkanowy
 Video player | MX Player | VLC
-\- | YouTube | NewPipe, SkyTube\*\*\*
+\- | YouTube | NewPipe, SkyTube
 
 ### Root only apps
 
@@ -73,11 +73,10 @@ OpenKeychain | PGP encryption app for Android.
 
 #### Why not recommended?
 
-**Gadgetbridge** - [TODO]
+**Gadgetbridge** - If you are a Mi Band 4 user you still must have official
+account and app to control device.
 
-**RedReader** - [TODO]
-
-**SkyTube** - [TODO]
+**RedReader** - Weird interface.
 
 **T-UI** - Not really efficient on touchscreen.
 
