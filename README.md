@@ -14,7 +14,7 @@ Also you can change stock ROM to custom ROM without Google Play Services (GApps)
 
 ## OS
 
-Change Windows or MacOS to GNU/Linux, BSD or any other FOSS operating system.
+Change Windows or macOS to GNU/Linux, BSD or any other FOSS operating system.
 
 ## Other tips
 
