@@ -29,6 +29,7 @@ Change Windows or MacOS to GNU/Linux, BSD or any other FOSS operating system.
 * [TheEvilSkeleton](https://github.com/TheEvilSkeleton)
 * [Adrian Marciniuk](https://github.com/xXBlackMaskXx)
 * [Tim Visée](https://github.com/timvisee)
+* [Grzesiek11](https://github.com/jedenastka)
 
 #### From Reddit
 
