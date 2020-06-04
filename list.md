@@ -105,7 +105,7 @@ Epic Games client | Epic Games Launcher | [legendary](https://github.com/derrod/
 
 Type | Service | FOSS (or more private\*\*) alternatives
 :--- | :--- | :---
-Channel-based chat | Discord | [Keybase](https://keybase.io/)\*\*, \[[Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)\]
+Channel-based chat | Discord | [Riot.im](https://about.riot.im/), [FluffyChat](https://christianpauly.gitlab.io/fluffychat-website/) ([Matrix](https://en.wikipedia.org/wiki/Matrix_(protocol)) clients)
 Cloud drive and sync | Google Drive, OneDrive | [Nextcloud](https://nextcloud.com/), [Syncthing](https://syncthing.net/) (only sync)
 Cooperative editing | Google Docs | [Etherpad](https://etherpad.org/), [Disroot Pad](https://pad.disroot.org/), [Disroot Cryptpad](https://cryptpad.disroot.org/)
 E-mail hosting | Gmail, Outlook | [Disroot](https://disroot.org)\*, [ProtonMail](https://protonmail.com/)\*, [Tutanota](https://www.tutanota.com/)\*, [Kolab Now](https://kolabnow.com/) (or selfhosted [Kolab](https://kolab.org/))
@@ -132,8 +132,6 @@ Video sharing platform | YouTube | [LBRY](https://lbry.tv/), [invidio.us](https:
 #### Why not recommended?
 
 **0x0** - Doesn't keep pastes forever, doesn't have an UI (it's just a service).
-
-**Keybase** - [recently acquired by Zoom](https://keybase.io/blog/keybase-joins-zoom). Messages are still private (since they are encrypted), but the development might slow down or even stopped (Zoom cares about their devs, not about the app itself).
 
 ## Games
 Game | Description
