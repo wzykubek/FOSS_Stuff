@@ -1,6 +1,8 @@
 # FOSS and privacy software
 
-In this repo you can find some free, open source and privacy applications and services to stop use proprietary spyware. If you have other advices, suggestions or apps/services which I can add it to this document please contribute or open an issue.
+In this repo you can find some free, open source and privacy applications and services to stop use
+proprietary spyware. If you have other advices, suggestions or apps/services which I can add it to
+this document please [contribute](./CONTRIBUTING.md) or open an issue.
 
 ## [Full list of apps, services and game alternatives](./list.md)
 
