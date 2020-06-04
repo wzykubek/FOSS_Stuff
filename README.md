@@ -10,11 +10,11 @@ this document please [contribute](./CONTRIBUTING.md) or open an issue.
 
 ## [#FreeYourAndroid](https://fsfe.org/campaigns/android/android.en.html)
 
-Change proprietary apps on your Android phone to FOSS alternatives.
++ Change proprietary apps on your Android phone to FOSS alternatives.
++ You can change stock ROM to custom ROM without Google Play Services (GApps).
++ Install applications from [F-Droid](https://f-droid.org/) instead of using Google Play Store.
 
-Also you can change stock ROM to custom ROM without Google Play Services (GApps).
-
-## OS
+## Desktop OS
 
 Change Windows or macOS to GNU/Linux, BSD or any other FOSS operating system.
 
