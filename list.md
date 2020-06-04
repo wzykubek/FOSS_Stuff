@@ -53,7 +53,7 @@ UntrackMe | Links converter (eg. change youtu.be to invidio.us on the fly).
 \*\* - Delete Facebook account if you don't need it. \
 \*\*\* - Not recommended. See below.
 
-#### Where get apps that aren't on F-Droid?
+### Where get apps that aren't on F-Droid?
 
 **AOSP Keyboard** - [APKMirror](https://www.apkmirror.com/apk/lineageos/android-keyboard-aosp-2/)
 
@@ -71,7 +71,7 @@ UntrackMe | Links converter (eg. change youtu.be to invidio.us on the fly).
 
 **Tor Browser** - Add [Guardian Project repo](https://guardianproject.info/fdroid/) to F-Droid.
 
-#### Why not recommended?
+### Why not recommended?
 
 **Gadgetbridge** - If you are a Mi Band 4 user you still must have official
 account and app to control device.
@@ -90,7 +90,7 @@ Bitmap graphics | Adobe Photoshop | [GIMP](https://www.gimp.org/), [Krita](https
 Browser | Chrome, MS Edge, Vivaldi | [Firefox](https://www.mozilla.org/en-US/exp/firefox/new/), [Tor Browser](https://torproject.org), [Brave](https://brave.com/), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Qutebrowser](https://qutebrowser.org/)
 CAD | AutoCAD | [QCAD](https://qcad.org/en/)
 Code editor | Visual Studio | [VSCode](https://github.com/microsoft/vscode) (built from source or [VSCodium](https://vscodium.com/)), [Vim](https://www.vim.org/) or [NeoVim](https://neovim.io/), [Emacs](https://www.gnu.org/software/emacs/)
-Discord client\*\* | Discord | [gtkcord3](https://github.com/diamondburned/gtkcord3)
+Discord client\* | Discord | [gtkcord3](https://github.com/diamondburned/gtkcord3)
 Office suite | Microsoft Office | [Libre Office](https://www.libreoffice.org/), [Open Office](https://www.openoffice.org/)\*
 Photo retouching | Adobe Lightroom | [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/)
 Screencast/streaming app | Camtasia, Action, Bandicam | [OBS Studio](https://obsproject.com/), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
@@ -98,8 +98,13 @@ Vector graphics | Adobe Illustrator | [Inkscape](https://inkscape.org)
 Video editor | Adobe Premiere | [Kdenlive](https://kdenlive.org/), [OpenShot](https://www.openshot.org/)
 Epic Games client | Epic Games Launcher | [legendary](https://github.com/derrod/legendary)
 
-\* - not recommended \
-\*\* - Using unofficial clients is not allowed in Discord TOS and might result in pernament account block. Use it at your own risk.
+\* - not recommended
+
+### Why not recommended?
+
+**Discord unofficial clients** - This is not allowed in Discord TOS and might result in pernament account block. Use it at your own risk.
+
+**OpenOffice** - There is no more support.
 
 ## Services
 
@@ -129,7 +134,7 @@ Video sharing platform | YouTube | [LBRY](https://lbry.tv/), [invidio.us](https:
 \* - Not (fully) FOSS, but still a better alternative. \
 \*\* - Not recommended. See below.
 
-#### Why not recommended?
+### Why not recommended?
 
 **0x0** - Doesn't keep pastes forever, doesn't have an UI (it's just a service).
 
