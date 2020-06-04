@@ -8,7 +8,7 @@ this document please [contribute](./CONTRIBUTING.md) or open an issue.
 
 #### Also look on [privacytools.io](https://privacytools.io)
 
-## #FreeYourAndroid
+## [#FreeYourAndroid](https://fsfe.org/campaigns/android/android.en.html)
 
 Change proprietary apps on your Android phone to FOSS alternatives.
 
