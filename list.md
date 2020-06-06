@@ -16,6 +16,7 @@ Camera | GCam | OpenCamera
 E-book/PDF reader | Acrobat Reader, AIReader | Librera, Book Reader, FBReader
 E-mail | Gmail | FairEmail, K-9 Mail
 File manager | ES File Explorer, Total Commander | Amaze, Ghost Commander, Material Files
+Fitness | Google Fit, Mi Fit | FitoTrack
 Gallery | Google Photos | Simple Gallery
 Launcher | Pixel Launcher | KISS Launcher, T-UI\*\*\*, Lawnchair
 Maps and navigation | Google Maps, Maps.me | OsmAnd+
