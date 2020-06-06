@@ -6,7 +6,7 @@ this document please [contribute](./CONTRIBUTING.md) or open an issue.
 
 ## [Full list of apps, services and game alternatives](./list.md)
 
-#### Also look on [privacytools.io](https://privacytools.io)
+#### Also look on [privacytools.io](https://privacytools.io) and [LinuxCofeFederation's list](https://codeberg.org/LinuxCafeFederation/awesome-alternatives)
 
 ## [#FreeYourAndroid](https://fsfe.org/campaigns/android/android.en.html)
 
