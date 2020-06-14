@@ -123,7 +123,7 @@ Music streaming | Spotify, Tidal | ~~downloaded~~ bought music
 Password manager | Dashlane, LastPass, Google Password Manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
 Pastebin | Pastebin.com | [Disroot Privatebin](https://bin.disroot.org/), [GitLab Snippets](https://gitlab.com/), [0x0](http://0x0.st/)\*\*
 Polls | Strawpoll, Doodle | [Framadate](https://framadate.org/), [Disroot Polls](https://poll.disroot.org/)
-Search engines | Google, Bing | [DuckDuckGo](https://duckduckgo.com)\*, [SearX](https://search.disroot.org/), [YaCy](https://yacy.net/), [Startpage]
+Search engines | Google, Bing | [DuckDuckGo](https://duckduckgo.com)\*, [SearX](https://searx.space/), [YaCy](https://yacy.net/), [Startpage](https://www.startpage.com/)*, [Whoogle](https://github.com/benbusby/whoogle-search)
 Spell checking | Grammarly | [LanguageTool](https://languagetool.org/)
 Surveys and forms | Google Forms | Nextcloud app [Forms](https://apps.nextcloud.com/apps/forms)
 Video/Voice Chat | Discord, Skype | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.info/), Nextcloud app [Talk](https://apps.nextcloud.com/apps/spreed)
