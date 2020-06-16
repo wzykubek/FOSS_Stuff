@@ -92,7 +92,7 @@ Browser | Chrome, MS Edge, Vivaldi | [Firefox](https://www.mozilla.org/en-US/exp
 CAD | AutoCAD | [QCAD](https://qcad.org/en/)
 Code editor | Visual Studio | [VSCode](https://github.com/microsoft/vscode) (built from source or [VSCodium](https://vscodium.com/)), [Vim](https://www.vim.org/) or [NeoVim](https://neovim.io/), [Emacs](https://www.gnu.org/software/emacs/)
 Discord client\* | Discord | [gtkcord3](https://github.com/diamondburned/gtkcord3)
-Disk usage statistics | \- | [QDirStat](https://github.com/shundhammer/qdirstat), [WinDirStat](https://windirstat.net/)
+Disk usage statistics | \- | [QDirStat](https://github.com/shundhammer/qdirstat), [WinDirStat](https://windirstat.net/)\*\*
 Office suite | Microsoft Office | [Libre Office](https://www.libreoffice.org/), [Open Office](https://www.openoffice.org/)\*
 Photo retouching | Adobe Lightroom | [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/)
 Screencast/streaming app | Camtasia, Action, Bandicam | [OBS Studio](https://obsproject.com/), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
@@ -101,6 +101,7 @@ Video editor | Adobe Premiere | [Kdenlive](https://kdenlive.org/), [OpenShot](ht
 Epic Games client | Epic Games Launcher | [legendary](https://github.com/derrod/legendary)
 
 \* - not recommended
+\*\* - Windows only application
 
 ### Why not recommended?
 
