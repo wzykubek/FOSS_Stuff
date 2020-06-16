@@ -100,7 +100,7 @@ Vector graphics | Adobe Illustrator | [Inkscape](https://inkscape.org)
 Video editor | Adobe Premiere | [Kdenlive](https://kdenlive.org/), [OpenShot](https://www.openshot.org/)
 Epic Games client | Epic Games Launcher | [legendary](https://github.com/derrod/legendary)
 
-\* - not recommended
+\* - Not recommended  \
 \*\* - Windows only application
 
 ### Why not recommended?
