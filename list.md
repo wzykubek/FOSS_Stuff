@@ -6,7 +6,7 @@
 
 Type | App | FOSS alternatives
 :--- | :--- | :---
-2FA | Google Authenticator | Aegis
+2FA | Google Authenticator | Aegis, andOTP
 Activity tracker pairing app | Mi Fit | Gadgetbridge\*\*\*
 App store | Google Play Store | [Aurora Store](https://auroraoss.com/), [F-Droid](https://f-droid.org/)
 Browser | Chrome, Opera | Brave\*, [Bromite](https://www.bromite.org/)\*, Firefox\* or Fennec F-Droid, Tor Browser\*
@@ -92,6 +92,7 @@ Browser | Chrome, MS Edge, Vivaldi | [Firefox](https://www.mozilla.org/en-US/exp
 CAD | AutoCAD | [QCAD](https://qcad.org/en/)
 Code editor | Visual Studio | [VSCode](https://github.com/microsoft/vscode) (built from source or [VSCodium](https://vscodium.com/)), [Vim](https://www.vim.org/) or [NeoVim](https://neovim.io/), [Emacs](https://www.gnu.org/software/emacs/)
 Discord client\* | Discord | [gtkcord3](https://github.com/diamondburned/gtkcord3)
+Disk usage statistics | \- | [QDirStat](https://github.com/shundhammer/qdirstat), [WinDirStat](https://windirstat.net/)
 Office suite | Microsoft Office | [Libre Office](https://www.libreoffice.org/), [Open Office](https://www.openoffice.org/)\*
 Photo retouching | Adobe Lightroom | [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/)
 Screencast/streaming app | Camtasia, Action, Bandicam | [OBS Studio](https://obsproject.com/), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)
@@ -123,6 +124,7 @@ Music streaming | Spotify, Tidal | ~~downloaded~~ bought music
 Password manager | Dashlane, LastPass, Google Password Manager | [KeePassXC](https://keepassxc.org/) (KeePassDX for Android), [Bitwarden](https://bitwarden.com/)
 Pastebin | Pastebin.com | [Disroot Privatebin](https://bin.disroot.org/), [GitLab Snippets](https://gitlab.com/), [0x0](http://0x0.st/)\*\*
 Polls | Strawpoll, Doodle | [Framadate](https://framadate.org/), [Disroot Polls](https://poll.disroot.org/)
+Project management | HacknPlan, Wrike | [Leantime](https://leantime.io/), [Phabricator](https://www.phacility.com/phabricator/), [Kanboard](https://kanboard.org/)
 Search engines | Google, Bing | [DuckDuckGo](https://duckduckgo.com)\*, [SearX](https://searx.space/), [YaCy](https://yacy.net/), [Startpage](https://www.startpage.com/)*, [Whoogle](https://github.com/benbusby/whoogle-search)
 Spell checking | Grammarly | [LanguageTool](https://languagetool.org/)
 Surveys and forms | Google Forms | Nextcloud app [Forms](https://apps.nextcloud.com/apps/forms)
