@@ -146,6 +146,7 @@ Video sharing platform | YouTube | [LBRY](https://lbry.tv/), [invidio.us](https:
 Game | Description
 :--- | :---
 [Lutris](https://lutris.net/) | Open gaming platform for Linux.
+[Mindustry](https://github.com/Anuken/Mindustry) | A sandbox tower defense game.
 [Minetest](https://www.minetest.net/) | Voxel engine and game. Alternative to Minecraft.
 [MultiMC](https://multimc.org/) | Advanced, open Minecraft launcher (the game is still propertiary).
 [Open Arena](http://www.openarena.ws/smfnews.php) | Community-produced deathmatch FPS based on GPL idTech3 technology.
