@@ -33,6 +33,7 @@ Change Windows or macOS to GNU/Linux, BSD or any other FOSS operating system.
 * [Tim Visée](https://github.com/timvisee)
 * [Grzesiek11](https://github.com/jedenastka)
 * [Qest333](https://github.com/Qest333)
+* [vinceh121](https://github.com/vinceh121)
 
 #### From Reddit
 
