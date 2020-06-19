@@ -18,7 +18,7 @@ E-mail | Gmail | FairEmail, K-9 Mail
 File manager | ES File Explorer, Total Commander | Amaze, Ghost Commander, Material Files
 Fitness | Google Fit, Mi Fit | FitoTrack
 Gallery | Google Photos | Simple Gallery
-Launcher | Pixel Launcher | KISS Launcher, T-UI\*\*\*, Lawnchair
+Launcher | Pixel Launcher | KISS Launcher, T-UI\*\*\*, Lawnchair, [Taskbar](https://github.com/farmerbb/Taskbar)
 Maps and navigation | Google Maps, Maps.me | OsmAnd+
 Music player | Google Music | Vinyl, Odyssey
 Notes | Google Keep, OneNote | Markor, Joplin
