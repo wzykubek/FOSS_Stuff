@@ -43,3 +43,7 @@ Change Windows or macOS to GNU/Linux, BSD or any other FOSS operating system.
 * [u/stannumdude](https://reddit.com/u/stannumdude)
 * [u/w-g](https://reddit.com/u/w-g)
 * [u/\_kusochi](https://reddit.com/u/_kusochi)
+
+#### Elsewhere
+
+* [Chase@git.chasehall.net](https://git.chasehall.net/Chase)
