@@ -6,32 +6,32 @@
 
 Type | App | FOSS alternatives
 :--- | :--- | :---
-2FA | Google Authenticator | Aegis, andOTP
-Activity tracker pairing app | Mi Fit | Gadgetbridge\*\*\*
+2FA | Google Authenticator | [Aegis](https://getaegis.app/), [andOTP](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/)
+Activity tracker pairing app | Mi Fit | [Gadgetbridge](https://gadgetbridge.org/)\*\*\*
 App store | Google Play Store | [Aurora Store](https://auroraoss.com/), [F-Droid](https://f-droid.org/)
-Browser | Chrome, Opera | Brave\*, [Bromite](https://www.bromite.org/)\*, Firefox\* or Fennec F-Droid, Tor Browser\*
-Calculator | Google Calculator | Calculator++
-Calendar | Google Calendar | Simple Calendar
-Camera | GCam | OpenCamera
-E-book/PDF reader | Acrobat Reader, AIReader | Librera, Book Reader, FBReader
-E-mail | Gmail | FairEmail, K-9 Mail
-File manager | ES File Explorer, Total Commander | Amaze, Ghost Commander, Material Files
-Fitness | Google Fit, Mi Fit | FitoTrack
-Gallery | Google Photos | Simple Gallery
-Launcher | Pixel Launcher | KISS Launcher, T-UI\*\*\*, Lawnchair, [Taskbar](https://github.com/farmerbb/Taskbar)
-Maps and navigation | Google Maps, Maps.me | OsmAnd+
-Music player | Google Music | Vinyl, Odyssey
-Notes | Google Keep, OneNote | Markor, Joplin
-On-screen Keyboard | GBoard | OpenBoard, AOSP Keyboard\*
-RSS Feed | Aggregator | Feeder
-Reddit client | offical app | Infinity for Reddit\*, Slide, RedReader\*\*\*
-SMS | Google Messages | QKSMS
-Synchronization | \- | Syncthing, KDE Connect
-Twitter | offical app | Twidere
-Video player | MX Player | VLC
-YouTube client | official app | NewPipe, SkyTube
-Electronic diary app | VULCAN Dzienniczek+ | Wulkanowy
-~~Facebook~~\*\* client | offical app | Frost
+Browser | Chrome, Opera | [Brave](#where-get-apps-that-arent-on-f-droid)\*, [Bromite](#where-get-apps-that-arent-on-f-droid)\*, [Firefox](#where-get-apps-that-arent-on-f-droid)\* or [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/), [Tor Browser](#where-get-apps-that-arent-on-f-droid)\*
+Calculator | Google Calculator | [Calculator++](https://f-droid.org/en/packages/org.solovyev.android.calculator/)
+Calendar | Google Calendar | [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/)
+Camera | GCam | [OpenCamera](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
+E-book/PDF reader | Acrobat Reader, AIReader | [Librera](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/), [Book Reader](https://f-droid.org/en/packages/com.github.axet.bookreader/), [FBReader](https://f-droid.org/en/packages/org.geometerplus.zlibrary.ui.android/)
+E-mail | Gmail | [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/), [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
+File manager | ES File Explorer, Total Commander | [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/), [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
+Fitness | Google Fit, Mi Fit | [FitoTrack](https://f-droid.org/en/packages/de.tadris.fitness/)
+Gallery | Google Photos | [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
+Launcher | Pixel Launcher | [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/), [T-UI](https://f-droid.org/en/packages/ohi.andre.consolelauncher/)\*\*\*, [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/), [Taskbar](https://github.com/farmerbb/Taskbar)
+Maps and navigation | Google Maps, Maps.me | [OsmAnd+](https://f-droid.org/en/packages/net.osmand.plus/)
+Music player | Google Music | [Vinyl](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/), [Odyssey](https://f-droid.org/en/packages/org.gateshipone.odyssey/)
+Notes | Google Keep, OneNote | [Markor](https://f-droid.org/en/packages/net.gsantner.markor/), [Joplin](https://joplinapp.org/)
+On-screen Keyboard | GBoard | [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/), [AOSP Keyboard](#where-get-apps-that-arent-on-f-droid)\*
+RSS Feed | Aggregator | [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
+Reddit client | Reddit | [Infinity for Reddit](#where-get-apps-that-arent-on-f-droid)\*, [Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/), [RedReader](https://f-droid.org/en/packages/org.quantumbadger.redreader/)\*\*\*
+SMS | Google Messages | [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/)
+Synchronization | \- | [Syncthing](https://f-droid.org/en/packages/com.nutomic.syncthingandroid/), [KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
+Twitter | Twitter | [Twidere](https://f-droid.org/en/packages/org.mariotaku.twidere/)
+Video player | MX Player | [VLC](https://f-droid.org/en/packages/org.videolan.vlc/)
+YouTube client | YouTube | [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss/)
+Electronic diary app | VULCAN Dzienniczek+ | [Wulkanowy](https://f-droid.org/en/packages/io.github.wulkanowy/)
+Facebook\*\* client | Facebook | [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/)
 
 ### Root only apps
 
@@ -45,9 +45,9 @@ App | Description
 
 App | Description
 :--- | :---
-OpenKeychain | PGP encryption app for Android.
-Scrambled Exif | Remove metadata from photos.
-UntrackMe | Links converter (eg. change youtu.be to invidio.us on the fly).
+[OpenKeychain](https://f-droid.org/en/packages/org.sufficientlysecure.keychain/) | PGP encryption app for Android.
+[Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/) | Remove metadata from photos.
+[UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/) | Links converter (eg. change youtu.be to invidio.us on the fly).
 [Orbot](guardianproject.info/apps/orbot) | Tor proxy for Android.
 
 \* - Not avaliable in default F-Droid repository. See below. \
