@@ -130,9 +130,10 @@ Search engines | Google, Bing | [DuckDuckGo](https://duckduckgo.com)\*, [SearX](
 Spell checking | Grammarly | [LanguageTool](https://languagetool.org/)
 Surveys and forms | Google Forms | Nextcloud app [Forms](https://apps.nextcloud.com/apps/forms)
 Video/Voice Chat | Discord, Skype | [Jitsi Meet](https://meet.jit.si/), [Mumble](https://www.mumble.info/), Nextcloud app [Talk](https://apps.nextcloud.com/apps/spreed)
-Social media | Facebook | [Mastodon](https://mastodon.social/about), [Disapora](https://joindiaspora.com/)
+Social media | Facebook | [Mastodon](https://mastodon.social/about), [Disapora](https://joindiaspora.com/), [Friendca](https://friendi.ca/)
 Social media | Instagram | [Pixelfed](https://pixelfed.org/)
 Social media | Twitter | [Mastodon](https://joinmastodon.org), [Pleroma](https://pleroma.social), [Nitter](https://nitter.net/) (Twitter frontend)
+Social media | Reddit | [Lemmy](https://lemmy.ml/)
 Video sharing platform | YouTube | [LBRY](https://lbry.tv/), [invidio.us](https://invidio.us) (YouTube frontend)
 
 \* - Not (fully) FOSS, but still a better alternative. \
