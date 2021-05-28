@@ -17,7 +17,7 @@ E-book/PDF reader | Acrobat Reader, AIReader | [Librera](https://f-droid.org/en/
 E-mail | Gmail | [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/), [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
 File manager | ES File Explorer, Total Commander | [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/), [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Material Files](https://f-droid.org/en/packages/me.zhanghai.android.files/)
 Fitness | Google Fit, Mi Fit | [FitoTrack](https://f-droid.org/en/packages/de.tadris.fitness/)
-Gallery | Google Photos | [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
+Gallery | Google Photos | [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/), [Photok](https://f-droid.org/packages/dev.leonlatsch.photok/)
 Launcher | Pixel Launcher | [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/), [T-UI](https://f-droid.org/en/packages/ohi.andre.consolelauncher/)\*\*\*, [Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah/), [Taskbar](https://github.com/farmerbb/Taskbar)
 Maps and navigation | Google Maps, Maps.me | [OsmAnd+](https://f-droid.org/en/packages/net.osmand.plus/)
 Music player | Google Music | [Vinyl](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/), [Odyssey](https://f-droid.org/en/packages/org.gateshipone.odyssey/)
@@ -152,5 +152,6 @@ Game | Description
 [Open Arena](http://www.openarena.ws/smfnews.php) | Community-produced deathmatch FPS based on GPL idTech3 technology.
 [RetroArch](https://www.retroarch.com/) | *libretro* frontend. Combines all (or most of) your emulators and game engines in one place.
 [osu!lazer](https://github.com/ppy/osu) | Iconic rhythm *click the circles* game now is officially open source.
+[Veloren](https://veloren.net/) | Multiplayer voxel RPG inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
 
 #### [Big list of open source games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)

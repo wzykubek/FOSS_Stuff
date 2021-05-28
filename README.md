@@ -34,6 +34,8 @@ Change Windows or macOS to GNU/Linux, BSD or any other FOSS operating system.
 * [Grzesiek11](https://github.com/jedenastka)
 * [Qest333](https://github.com/Qest333)
 * [vinceh121](https://github.com/vinceh121)
++ [comparesheriff](https://github.com/comparesheriff)
++ [RocketJannis](https://github.com/RocketJannis)
 
 #### From Reddit
 
